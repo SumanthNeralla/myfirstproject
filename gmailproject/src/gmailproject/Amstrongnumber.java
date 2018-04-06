@@ -4,6 +4,7 @@ public class Amstrongnumber {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
+		//Added this line to see the git working
 		
 		int n=125,r,sum=0;
 		
